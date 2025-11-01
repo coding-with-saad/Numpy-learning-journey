@@ -41,7 +41,7 @@ Each notebook focuses on one topic, so it’s easy to follow and revise.
 
 1. Clone this repo  
    ```bash
-   git clone https://github.com/yourusername/numpy-learning-journey.git
+   git clone https://github.com/coding-with-saad/Numpy-learning-journey
    ```
 2. Open notebooks in **Jupyter Notebook** or **VS Code**.  
 3. Run cells step by step and observe the output.  
