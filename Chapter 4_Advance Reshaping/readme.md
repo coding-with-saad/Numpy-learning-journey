@@ -1,1 +1,1 @@
-insert append concatenate
+insert append concatenate   delete 
