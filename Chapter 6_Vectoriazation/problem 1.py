@@ -28,4 +28,12 @@ arr1=np.array([1,2,3,4,5])
 arr2=np.array([6,7,8,9,10])
 # Element-wise addition
 add=arr1+arr2
+multiply=arr1*3
 print("Addition:", add)
+print(multiply)
+
+
+
+saad=[3,4,5]
+for i in saad:
+    print(i*3)
