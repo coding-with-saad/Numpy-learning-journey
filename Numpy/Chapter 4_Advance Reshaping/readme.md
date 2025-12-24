@@ -1,1 +1,0 @@
-insert append concatenate   delete 

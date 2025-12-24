@@ -2,8 +2,8 @@
 np.concatenate() function is used to join two or more arrays of the same shape along a specified axis.
 np.concatenate((array1, array2, ...), axis=0)
 
-axis=0: Join along rows (vertical stacking)
-axis=1: Join along columns (horizontal stacking)
+axis=0: Join along columns (vertical stacking)
+axis=1: Join along rows (horizontal stacking)
 """
 
 
