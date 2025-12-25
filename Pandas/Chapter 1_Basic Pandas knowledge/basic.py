@@ -27,4 +27,7 @@ import pandas as pd
 df=pd.read_csv("e:\Machine Learning\Pandas\Chapter 1_Basic Pandas knowledge\employee_dataset_100.csv")
 
 print(df)
-print(df.head(10))
+print(df.head(10)) # displays first 10 rows
+print(df.tail(10)) # displays last 10 rows
+print("Display the info of dataset")
+print(df.info()) # displays the info of dataset
