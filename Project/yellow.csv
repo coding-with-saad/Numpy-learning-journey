@@ -1,0 +1,16 @@
+sentence,score
+Artificial intelligence is a branch of computer science that focuses on creating systems capable of performing tasks that normally require human intelligence such as learning, reasoning, problem solving and understanding language,5
+Machine learning is a subset of artificial intelligence that allows systems to automatically learn and improve from experience without being explicitly programmed,5
+Natural language processing enables computers to understand, interpret and generate human language in a meaningful way,4
+Deep learning uses neural networks with many layers to model complex patterns in large amounts of data,4
+Python is one of the most popular programming languages used in artificial intelligence and machine learning due to its simplicity and large ecosystem of libraries,4
+Data preprocessing is an important step in machine learning because raw data often contains noise, missing values and irrelevant information,3
+Supervised learning requires labeled data where the input and output are already known,3
+Unsupervised learning works with unlabeled data to find hidden patterns or groupings,3
+This sentence does not add much useful information to the topic,1
+Another unimportant sentence that should not appear in the summary,1
+Artificial intelligence is being used in healthcare for disease prediction, medical imaging and drug discovery,5
+In finance, AI helps in fraud detection, algorithmic trading and risk management,4
+Education systems use AI for personalized learning and automated grading,4
+Transportation is improving with self driving cars and smart traffic systems powered by AI,4
+Some sentences are only added to increase dataset size and are not very meaningful,1
